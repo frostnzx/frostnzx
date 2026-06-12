@@ -1,3 +1,6 @@
-Computer Engineering @Chula. Interests in web, systems, and infra.
+Computer Engineering @ Chulalongkorn University.  
+Interested in web platforms, backend systems, and infrastructure.
 
-My personal site : [frostnzx.github.io](frostnzx.github.io/blog)
+:)
+
+More about me: [frostnzx.github.io](https://frostnzx.github.io/blog)
